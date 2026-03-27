@@ -1,34 +1,32 @@
-Algoritmos y Estructuras de Datos (UTP)
-Repositorio que contiene los laboratorios y ejercicios desarrollados durante el curso de Algoritmos y Estructuras de Datos, donde se aplican técnicas de almacenamiento en memoria y optimización de procesos mediante el lenguaje Java.
+# Algoritmos y Estructuras de Datos (UTP)
 
-Objetivo
+Repositorio que contiene los laboratorios y ejercicios desarrollados durante el curso de **Algoritmos y Estructuras de Datos**, donde se aplican técnicas de almacenamiento en memoria y optimización de procesos mediante el lenguaje **Java**.
+
+### 🎯 Objetivo
+
 Implementar y gestionar estructuras de datos lineales y no lineales, aplicando algoritmos de inserción, búsqueda, ordenamiento y eliminación para resolver problemas de ingeniería con un uso eficiente de recursos.
 
-Estructura del repositorio
+### 📁 Estructura del repositorio
+
 Cada sesión de práctica se encuentra organizada en carpetas que incluyen:
+*   **Código:** Programas desarrollados en Java (NetBeans) con comentarios explicativos de la lógica aplicada.
+*   **Enunciado:** Descripción de los problemas propuestos en la sesión de práctica de los jueves.
+*   **Proyecto:** Archivos de configuración del IDE para su ejecución inmediata.
 
-Código: Programas desarrollados en Java (NetBeans) con comentarios explicativos de la lógica aplicada.
+### 📚 Unidades de Aprendizaje
 
-Enunciado: Descripción de los problemas propuestos en la sesión de práctica de los jueves.
+*   **Unidad 01 – Estructuras Lineales Estáticas:** Operaciones con arreglos unidimensionales (vectores) y bidimensionales (matrices).
+*   **Unidad 02 – Estructuras Dinámicas:** Implementación de Listas Enlazadas (Simples, Dobles y Circulares) mediante el uso de nodos y apuntadores.
+*   **Unidad 03 – Pilas y Colas:** Manejo de estructuras LIFO y FIFO tanto en arreglos como en listas dinámicas.
+*   **Unidad 04 – Estructuras No Lineales:** Implementación de Árboles Binarios, Árboles de Búsqueda (ABB) y Árboles Equilibrados (AVL).
 
-Proyecto: Archivos de configuración del IDE para su ejecución inmediata.
+### 🛠️ Tecnologías utilizadas
 
-Unidades de Aprendizaje
-Unidad 01 – Estructuras Lineales Estáticas: Operaciones con arreglos unidimensionales (vectores) y bidimensionales (matrices).
+*   **Lenguaje de programación:** Java
+*   **IDE utilizado:** Apache NetBeans
+*   **Control de versiones:** Git / GitHub
 
-Unidad 02 – Estructuras Dinámicas: Implementación de Listas Enlazadas (Simples, Dobles y Circulares) mediante el uso de nodos y apuntadores.
-
-Unidad 03 – Pilas y Colas: Manejo de estructuras LIFO y FIFO tanto en arreglos como en listas dinámicas.
-
-Unidad 04 – Estructuras No Lineales: Implementación de Árboles Binarios, Árboles de Búsqueda (ABB) y Árboles Equilibrados (AVL).
-
-Tecnologías utilizadas
-Lenguaje de programación: Java
-
-IDE utilizado: Apache NetBeans
-
-Control de versiones: Git / GitHub
-
-Autor
-Alison León
-Estudiante de Ingeniería de Sistemas e Informática - UTP
+---
+### 👤 Autor
+**Alison León**  
+*Estudiante de Ingeniería de Sistemas e Informática - UTP*
