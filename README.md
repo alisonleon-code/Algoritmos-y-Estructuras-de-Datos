@@ -1,7 +1,3 @@
-¡Excelente ejemplo! Ese estilo es muy profesional porque es directo, estructurado y modular. Se nota que tienes claro cómo organizar un portafolio técnico.
-
-Adaptando ese formato exacto a tu curso actual de Algoritmos y Estructuras de Datos, aquí tienes la propuesta para tu README.md principal. Está redactado para que se entienda que es tu repositorio de práctica continua:
-
 Algoritmos y Estructuras de Datos (UTP)
 Repositorio que contiene los laboratorios y ejercicios desarrollados durante el curso de Algoritmos y Estructuras de Datos, donde se aplican técnicas de almacenamiento en memoria y optimización de procesos mediante el lenguaje Java.
 
