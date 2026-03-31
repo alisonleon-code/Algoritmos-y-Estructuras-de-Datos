@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos (UTP)
+# Algoritmos y Estructuras de Datos
 
 Repositorio que contiene los laboratorios y ejercicios desarrollados durante el curso de **Algoritmos y Estructuras de Datos**, donde se aplican técnicas de almacenamiento en memoria y optimización de procesos mediante el lenguaje **Java**.
 
